@@ -1,0 +1,157 @@
+/* Website template from moobnn.com */
+*{
+	margin: 0;
+	padding:0;
+}
+.menu ul{
+	list-style-type: none;
+	background-color: #cdd157b5;
+	width: 230px;
+}
+.menu li a{
+	display: block;
+	width: 70px;
+	color: #151d2f;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-decoration: none;
+	text-align: center;
+}
+.menu li a:hover{
+	background-color: rgb(160, 59, 208);
+	color: #324062;
+}
+
+body {
+	background: #091731 url(../images/bg-body.jpg) repeat-x left top;
+	color: #151e33;
+	font-family: 'Conv_Bitter-Regular';
+	font-size: 14px;
+	margin: 0;
+	min-width: 960px;
+	padding: 0;
+}
+
+#header {
+	background: url(../images/bg-header-pattern.png) repeat-x left top;
+	height: 208px;
+	width: 100%;
+}
+#header div {
+	background: url(../images/bg-header1.jpg) no-repeat;
+	height: 103px;
+	margin: 0 auto;
+	text-align: center;
+	width: 960px;
+}
+
+#search{
+	background-color: rgb(10, 26, 42);
+	width: 1000px;
+	border: 20px solid rgb(109, 115, 72);
+	padding: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #324062;
+	text-align: center;
+}
+
+form{
+	padding: 50px;
+	text-align: center;
+}
+
+p{
+	color: #cecf90;
+	text-align: center;
+}
+
+#footer {
+	background: url(../images/bg-footer.png) repeat-x left bottom;
+	height: 195px;
+	overflow: hidden;
+	margin: 70px 0 0;
+}
+#footer div {
+	background: url(../images/bg-footer2.jpg) no-repeat;
+	height: 92px;
+	margin: 103px auto 0;
+	width: 960px;
+}
+#footer div p {
+	color: #c89f59;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 92px;
+	text-align: center;
+}
+
+h1{
+	padding-left: 3%;
+	color: rgba(245, 245, 245, 0.712);
+	font-family:sans-serif;
+	font-size: 20px;
+}
+
+h2{
+	padding-left: 5%;
+	padding-top: 10px;
+	padding-bottom: 50px;
+	color: rgb(3, 15, 24);
+	background-color: #926b17cb;
+	font-family:sans-serif;
+	font-size:35px;
+}
+
+p1{
+	color: #0b006e;
+	background-color: #f1202087;
+	font-family: fantasy;
+	font-size: 40px;
+	text-align: left;
+}
+p2{
+	color: rgb(235, 98, 19);
+	background-color: rgba(255, 115, 0, 0.717);
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 50px;
+	text-align: center;
+}
+p3{
+	color: rgb(50, 44, 12);
+	background-color: #f1f516cb;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 20px;
+	text-align:center;
+}
+p4{
+	color: rgb(38, 181, 67);
+	background-color: rgba(0, 128, 0, 0.649);
+	font-family:monospace;
+	font-size: 30px;
+	text-align:center;
+}
+p5{
+	color: rgb(6, 77, 121);
+	background-color: #a2d5f88f;
+	font-family: fantasy;
+	font-size: 40px;
+	text-align:center;
+}
+
+h{
+	color: rgb(11, 8, 8);
+	background-color: #d12626;
+	width: 1200px;
+	border:100px solid white;
+	padding: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 50px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+
+
